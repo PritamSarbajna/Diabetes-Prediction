@@ -25,7 +25,7 @@ Number of Observation Units: 768 <br>
 Variable Number: 9
 
 
-**Algorithm used : Support Vector Machine**
+**Model : Support Vector Machine**
 
 
 <br>
